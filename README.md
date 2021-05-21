@@ -1,4 +1,4 @@
-# simple-game
+#Card-game
 
 Trying to make a simple memory game with Html, CSS and JS
 
