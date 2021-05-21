@@ -1,5 +1,5 @@
 # simple-game
 
-Just trying to make a simple game with Html, CSS and JS
+Trying to make a simple memory game with Html, CSS and JS
 
 Work In Progress
